@@ -26,6 +26,6 @@ I'm a passionate full-stack developer who loves building smart and user-friendly
 
 ## 📫 How to Reach Me
 - GitHub: your-github-link
-- Email: your-email@example.com
+- Email: arosh1126@gmail.com / zynaptict2624@gmail.com
 
 ⭐ Always learning and building new things.
