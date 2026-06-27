@@ -30,7 +30,7 @@ Passionate full-stack developer focused on building smart and user-friendly web 
   </a>
 
 - 📄 Resume:  
-  <a href="[https://flowcv.com/resume/eweir066i622](https://flowcv.com/resume/eweir066i622)" target="_blank">
+  <a href="https://flowcv.com/resume/eweir066i622" target="_blank">
     View My Resume
   </a>
 
